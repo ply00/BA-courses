@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0d7d469a25a17b83",
+        "id": "8c8c8a7a2a1988d7",
         "type": "tabs",
         "children": [
           {
-            "id": "6df65a476d9b3bd5",
+            "id": "0fb854037b445e46",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "123.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "123"
+              "title": "README"
             }
           }
         ]
@@ -199,7 +199,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "6df65a476d9b3bd5",
+  "active": "0fb854037b445e46",
   "lastOpenFiles": [
     "123.md",
     "rs-test-folder-OX4NS-xjciYu1V9bwPWfs",
