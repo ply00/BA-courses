@@ -1,0 +1,12 @@
+{
+  "id": "conv-1776749247639-a9wud1x9a",
+  "providerId": "claude",
+  "title": "你好 现在测试你是否能读取笔记",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1776749247639,
+  "updatedAt": 1776749335234,
+  "lastResponseAt": 1776749335234,
+  "sessionId": null,
+  "providerState": {},
+  "currentNote": "123.md"
+}

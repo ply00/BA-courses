@@ -24,7 +24,9 @@
     "claude": {
       "safeMode": "acceptEdits",
       "cliPath": "",
-      "cliPathsByHost": {},
+      "cliPathsByHost": {
+        "Leon5090LAPTOP": "C:\\Users\\Leon5090\\AppData\\Roaming\\npm\\claude.cmd"
+      },
       "loadUserSettings": true,
       "enableChrome": false,
       "enableBangBash": false,
