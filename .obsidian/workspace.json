@@ -99,6 +99,41 @@
         "type": "tabs",
         "children": [
           {
+            "id": "1eda0e0f706edfd7",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {},
+              "icon": "bot",
+              "title": "Claudian"
+            }
+          },
+          {
+            "id": "25aa804ae520e82b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "123.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "123 的大纲"
+            }
+          },
+          {
+            "id": "0cd46f632aa2831f",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "smart-connections",
+              "title": "Connections"
+            }
+          },
+          {
             "id": "6141daf94c962475",
             "type": "leaf",
             "state": {
@@ -161,21 +196,6 @@
             }
           },
           {
-            "id": "25aa804ae520e82b",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "123.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "123 的大纲"
-            }
-          },
-          {
             "id": "aed74471914a46c0",
             "type": "leaf",
             "state": {
@@ -196,23 +216,13 @@
               "icon": "lucide-info",
               "title": "123的笔记属性"
             }
-          },
-          {
-            "id": "0cd46f632aa2831f",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "smart-connections",
-              "title": "Connections"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 490.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -235,11 +245,14 @@
       "omnisearch:Omnisearch": false,
       "smart-connections:Smart Connections: Open connections view": false,
       "smart-connections:Smart Connections: Open random connection": false,
-      "smart-connections:Smart Lookup: Open lookup view": false
+      "smart-connections:Smart Lookup: Open lookup view": false,
+      "claudian:Open Claudian": false
     }
   },
-  "active": "b874ad456a22aeaa",
+  "active": "1eda0e0f706edfd7",
   "lastOpenFiles": [
+    "attachments/images.png",
+    "attachments",
     "README.md",
     "123.md",
     "11.md",
