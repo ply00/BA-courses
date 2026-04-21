@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f099444af30545be",
+        "id": "0d7d469a25a17b83",
         "type": "tabs",
         "children": [
           {
-            "id": "ca9df7872a5e5491",
+            "id": "6df65a476d9b3bd5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -199,8 +199,9 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "83a1bf0441e10b6b",
+  "active": "6df65a476d9b3bd5",
   "lastOpenFiles": [
+    "123.md",
     "rs-test-folder-OX4NS-xjciYu1V9bwPWfs",
     "copilot/copilot-custom-prompts/Clip Web Page.md",
     "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
@@ -219,7 +220,6 @@
     "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
     "copilot/copilot-custom-prompts",
     "copilot",
-    "新建 文本文档.txt",
-    "123.md"
+    "新建 文本文档.txt"
   ]
 }
