@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8c8c8a7a2a1988d7",
+        "id": "ead92875f45964d5",
         "type": "tabs",
         "children": [
           {
-            "id": "0fb854037b445e46",
+            "id": "f16839c91cd95f1a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
+              "title": "新标签页"
             }
           }
         ]
@@ -73,8 +69,19 @@
               "icon": "lucide-bookmark",
               "title": "书签"
             }
+          },
+          {
+            "id": "ee1541e9a029587b",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -174,13 +181,35 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "b874ad456a22aeaa",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "11.md"
+              },
+              "icon": "lucide-info",
+              "title": "11的笔记属性"
+            }
+          },
+          {
+            "id": "0cd46f632aa2831f",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "smart-connections",
+              "title": "Connections"
+            }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,11 +225,20 @@
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "remotely-save:Remotely Save": false,
-      "copilot:Open Copilot Chat": false
+      "copilot:Open Copilot Chat": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-kanban:Create new board": false,
+      "omnisearch:Omnisearch": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Smart Connections: Open random connection": false,
+      "smart-connections:Smart Lookup: Open lookup view": false
     }
   },
-  "active": "0fb854037b445e46",
+  "active": "0cd46f632aa2831f",
   "lastOpenFiles": [
+    "README.md",
+    "11.md",
     "123.md",
     "rs-test-folder-OX4NS-xjciYu1V9bwPWfs",
     "copilot/copilot-custom-prompts/Clip Web Page.md",
