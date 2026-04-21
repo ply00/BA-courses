@@ -11,10 +11,14 @@
             "id": "f16839c91cd95f1a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "123.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "123"
             }
           }
         ]
@@ -80,8 +84,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -188,10 +191,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "11.md"
+                "file": "123.md"
               },
               "icon": "lucide-info",
-              "title": "11的笔记属性"
+              "title": "123的笔记属性"
             }
           },
           {
@@ -205,7 +208,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -235,11 +238,11 @@
       "smart-connections:Smart Lookup: Open lookup view": false
     }
   },
-  "active": "0cd46f632aa2831f",
+  "active": "f16839c91cd95f1a",
   "lastOpenFiles": [
     "README.md",
-    "11.md",
     "123.md",
+    "11.md",
     "rs-test-folder-OX4NS-xjciYu1V9bwPWfs",
     "copilot/copilot-custom-prompts/Clip Web Page.md",
     "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",

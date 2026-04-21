@@ -19,3 +19,6 @@
 "event_logs:blocks:cleaned": {"key":"blocks:cleaned","ct":1,"first_at":1776747704638,"last_at":1776747704638,"class_name":"EventLog"},
 "event_logs:milestones:first_achieved": {"key":"milestones:first_achieved","ct":3,"first_at":1776747704604,"last_at":1776747705791,"class_name":"EventLog","event_sources":{"onboarding_events":3}},
 "event_logs:connections:opened": {"key":"connections:opened","ct":2,"first_at":1776747705791,"last_at":1776747705890,"class_name":"EventLog"},
+"event_logs:sources:deleted": {"key":"sources:deleted","ct":1,"first_at":1776747720125,"last_at":1776747720125,"class_name":"EventLog","event_sources":{"obsidian:vault.delete":1}},
+"event_logs:sources:opened": {"key":"sources:opened","ct":1,"first_at":1776747769949,"last_at":1776747769949,"class_name":"EventLog","event_sources":{"active-leaf-change":1}},
+"event_logs:sources:opened": {"key":"sources:opened","ct":3,"first_at":1776747769949,"last_at":1776747775787,"class_name":"EventLog","event_sources":{"active-leaf-change":3}},
