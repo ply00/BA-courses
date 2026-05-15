@@ -25,7 +25,7 @@
       "safeMode": "acceptEdits",
       "cliPath": "",
       "cliPathsByHost": {
-        "Leon5090LAPTOP": "C:\\Users\\Leon5090\\AppData\\Roaming\\npm\\claude.cmd"
+        "Leon5090LAPTOP": "C:\\Users\\Leon5090\\AppData\\Roaming\\npm\\node_modules\\@anthropic-ai\\claude-code\\bin\\claude.exe"
       },
       "loadUserSettings": true,
       "enableChrome": false,
@@ -44,7 +44,9 @@
       "reasoningSummary": "detailed",
       "environmentVariables": "",
       "environmentHash": "",
-      "installationMethodsByHost": {},
+      "installationMethodsByHost": {
+        "Leon5090LAPTOP": "native-windows"
+      },
       "wslDistroOverridesByHost": {}
     }
   },

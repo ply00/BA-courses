@@ -1,12 +1,24 @@
 {
   "id": "conv-1776749247639-a9wud1x9a",
   "providerId": "claude",
-  "title": "你好 现在测试你是否能读取笔记",
+  "title": "你现在是否能说话",
   "titleGenerationStatus": "failed",
   "createdAt": 1776749247639,
-  "updatedAt": 1776749335234,
-  "lastResponseAt": 1776749335234,
-  "sessionId": null,
-  "providerState": {},
-  "currentNote": "123.md"
+  "updatedAt": 1776749695123,
+  "lastResponseAt": 1776749695123,
+  "sessionId": "59ac3891-ca47-4d58-8629-19e24d4e8663",
+  "providerState": {
+    "providerSessionId": "59ac3891-ca47-4d58-8629-19e24d4e8663"
+  },
+  "currentNote": "123.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 10,
+    "cacheCreationInputTokens": 26222,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 26232,
+    "percentage": 13,
+    "contextWindowIsAuthoritative": true
+  }
 }
